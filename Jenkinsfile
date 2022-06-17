@@ -3,8 +3,8 @@ pipeline {
    stages {
       stage('e2e-tests') {
          steps {
-            sh 'npm install'
-            sh 'npm run test'
+            bat 'npm install'
+            bat 'npm run test'
          }
       }
    }
