@@ -1,0 +1,13 @@
+[
+    {
+    "username" : "superadmin@mail.com",
+    "password" : "123456",
+    "testcaseData" : "abc"
+    }, 
+
+    {
+        "username" : "nikhil@2stallions.com",
+        "password" : "123456",
+        "testcaseData" : "xyz"
+    }
+]
